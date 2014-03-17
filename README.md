@@ -1,4 +1,4 @@
 RPSA
 ====
 
-relatively-paired space analysis
+Relatively-paired space analysis
